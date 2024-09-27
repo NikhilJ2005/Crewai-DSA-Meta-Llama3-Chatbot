@@ -1,0 +1,10 @@
+streamlit==1.23.0
+crewai
+langchain_groq
+crewai_tools
+python-dotenv
+ipython
+pandas
+
+
+
